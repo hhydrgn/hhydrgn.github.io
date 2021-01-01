@@ -1,0 +1,24 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Timelines on hhydrgn&#39;s timeline</title>
+        <link>https://hhydrgn.github.io/timeline/</link>
+        <description>Recent content in Timelines on hhydrgn&#39;s timeline</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Fri, 01 Jan 2021 23:00:00 +0900</lastBuildDate>
+        <atom:link href="https://hhydrgn.github.io/timeline/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Hello, Hugo</title>
+            <link>https://hhydrgn.github.io/timeline/hello_hugo/</link>
+            <pubDate>Fri, 01 Jan 2021 23:00:00 +0900</pubDate>
+            
+            <guid>https://hhydrgn.github.io/timeline/hello_hugo/</guid>
+            <description>Hello, World!</description>
+            <content type="html"><![CDATA[<h2 id="heading"></h2>
+<p>Hello, World!</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
